@@ -1,0 +1,9 @@
+{
+  "name": "THS FINANCE",
+  "description": "A professional-grade native Android microfinance application with isometric UI, OCR, and automated PDF generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
